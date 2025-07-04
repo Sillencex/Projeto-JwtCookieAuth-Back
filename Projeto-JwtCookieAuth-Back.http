@@ -1,0 +1,6 @@
+@Projeto_JwtCookieAuth_Back_HostAddress = http://localhost:5114
+
+GET {{Projeto_JwtCookieAuth_Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
